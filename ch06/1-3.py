@@ -1,3 +1,9 @@
+"""
+팰린드롬?
+앞뒤가 똑같은 단어나 문장으로, 뒤집어도 같은 말이 되는 단어 또는 문장을 말함.
+"""
+
+
 # deque 활용
 def is_palindrome(s: str) -> bool:
     import re
